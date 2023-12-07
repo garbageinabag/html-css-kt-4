@@ -1,0 +1,49 @@
+/* @media (max-width: 600px){
+    .box {
+        width: 100px;
+        height: 100px;
+        background: blue;
+    }
+
+}
+
+@media (min-width: 600px){
+    .box {
+        width: 100px;
+        height: 100px;
+        background: red;
+    }
+} */
+
+.home{
+    text-decoration: none;
+    margin-left: 1200px;
+    font-family: Courier, monospace;
+}
+.about_company{
+    text-decoration: none;
+    margin-left: 60px;
+    font-family: Courier, monospace;
+}
+.block{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+/* .consultations {
+    display: flex;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+}
+
+.anti-crisis {
+    display: flex;
+    position: absolute;
+    
+} */
+
+
+
